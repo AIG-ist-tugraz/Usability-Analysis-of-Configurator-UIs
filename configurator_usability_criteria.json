@@ -1,0 +1,74 @@
+{
+   "C1":{
+      "name":"Customized options",
+      "description":"Does the configurator adapt the available options to meet different user profiles (e.g., expert vs. non-expert), such as presenting a needs-based view or a parameter view, with a clear way to select the profile?"
+   },
+   "C2":{
+      "name":"Organized configuration space",
+      "description":"Does the configurator help users with large option spaces by utilizing explicit mechanisms (e.g., grouping, search/filtering, multi-step configuration) to keep the number of simultaneously visible choices manageable?"
+   },
+   "C3":{
+      "name":"Availability of options",
+      "description":"Can users revisit and change previously set options without losing their current configuration state?"
+   },
+   "C4":{
+      "name":"Auto-completion",
+      "description":"Does the configurator offer user-triggered auto-completion that fills in the remaining required options with defaults?"
+   },
+   "C5":{
+      "name":"Variant comparison",
+      "description":"Can users keep multiple variants and compare them (e.g., ranking by properties, side-by-side, or highlighting differences) to review trade-offs?"
+   },
+   "C6":{
+      "name":"Error prevention",
+      "description":"Does the configurator prevent users from ending up with an invalid configuration (e.g., by disabling incompatible options, auto-resolving conflicts, or requiring conflict resolution before proceeding)?"
+   },
+   "E1":{
+      "name":"Providing domain knowledge",
+      "description":"Does the configurator provide in-context explanations of options (e.g., tooltips or examples) that clarify meaning and help users make informed choices?"
+   },
+   "E2":{
+      "name":"Transparency of dependencies",
+      "description":"Does the configurator explain dependencies of options at decision time (e.g., ‘choosing X requires Y’, ‘this removes Z’, impact on price/delivery) to highlight consequences of choices?"
+   },
+   "E3":{
+      "name":"Transparency of errors",
+      "description":"Does the configurator explain why a configuration is inconsistent (e.g., highlighting which selected options are in conflict) using actionable, non-technical language?"
+   },
+   "E4":{
+      "name":"Repair suggestions",
+      "description":"Does the configurator suggest actionable repair options (e.g., ‘change X to Y or Z’ or ‘remove X’) to assist users in resolving errors with inconsistent constraints?"
+   },
+   "N1":{
+      "name":"Focused navigation",
+      "description":"Does the configurator provide a clear, task-aligned sequence of steps that helps users reach a valid result efficiently (e.g., using a relevant order of decisions or avoiding unnecessary steps)?"
+   },
+   "N2":{
+      "name":"Manual step transition",
+      "description":"Does the configurator support moving forward/backward using consistently placed, clearly labeled controls?"
+   },
+   "N3":{
+      "name":"Flexible navigation",
+      "description":"Can users modify or undo earlier selections without losing the current configuration state?"
+   },
+   "N4":{
+      "name":"Progress indication",
+      "description":"Does the configurator clearly indicate the current step, remaining steps, and completion status (e.g., stepper or progress bar)?"
+   },
+   "N5":{
+      "name":"Variant persistence",
+      "description":"an users save, name, or restore previous full configuration variants during or after the session (e.g., version history or saved configurations)?"
+   },
+   "N6":{
+      "name":"Starting points",
+      "description":"Does the system offer practical starting points to support different user needs (e.g., starting from predefined configurations or selecting properties to start with)?"
+   },
+   "V1":{
+      "name":"Product preview",
+      "description":"Does the configurator provide a product preview that is continuously updated after changes to reflect the current configuration?"
+   },
+   "V2":{
+      "name":"Customized preview",
+      "description":"Can users switch between preview modes (e.g., 2D/3D images or a textual summary), with a consistent relation to the current configuration?"
+   }
+}

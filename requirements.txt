@@ -1,0 +1,7 @@
+jupyter
+pandas
+numpy
+google-genai
+google-api-python-client
+google-generativeai
+matplotlib

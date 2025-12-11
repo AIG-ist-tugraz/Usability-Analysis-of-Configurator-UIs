@@ -1,0 +1,116 @@
+{
+    "applications": [
+      {
+        "app_id": "APP1",
+        "name": "Tie Creators",
+        "industry": "Accessories",
+        "url": "https://tiecreators.com",
+        "video_file": "videos/Tie Creators.mp4"
+      },
+      {
+        "app_id": "APP2",
+        "name": "Clothoo",
+        "industry": "Apparel",
+        "url": "https://clothoo.com",
+        "video_file": "videos/Clothoo.mp4"
+      },
+      {
+        "app_id": "APP3",
+        "name": "eSalon",
+        "industry": "Beauty & Health",
+        "url": "https://esalon.com",
+        "video_file": "videos/eSalon.mp4"
+      },
+      {
+        "app_id": "APP4",
+        "name": "AimControllers",
+        "industry": "Electronics",
+        "url": "https://aimcontrollers.com",
+        "video_file": "videos/AimControllers.mp4"
+      },
+      {
+        "app_id": "APP5",
+        "name": "Oreo",
+        "industry": "Food & Packaging",
+        "url": "https://oreo.com",
+        "video_file": "videos/Oreo.mp4"
+      },
+      {
+        "app_id": "APP6",
+        "name": "DIS",
+        "industry": "Footwear",
+        "url": "https://designitalianshoes.com/en",
+        "video_file": "videos/DIS.mp4"
+      },
+      {
+        "app_id": "APP7",
+        "name": "Fender",
+        "industry": "Games & Music",
+        "url": "https://fender.com",
+        "video_file": "videos/Fender.mp4"
+      },
+      {
+        "app_id": "APP8",
+        "name": "Ergohide",
+        "industry": "House & Garden",
+        "url": "https://ergohide.com",
+        "video_file": "videos/Ergohide.mp4"
+      },
+      {
+        "app_id": "APP9",
+        "name": "Altrex",
+        "industry": "Industrial Goods",
+        "url": "https://altrex.com/en",
+        "video_file": "videos/Altrex.mp4"
+      },
+      {
+        "app_id": "APP10",
+        "name": "Nuk",
+        "industry": "Kids & Babies",
+        "url": "https://nuk.de",
+        "video_file": "videos/Nuk.mp4"
+      },
+      {
+        "app_id": "APP11",
+        "name": "Aixam",
+        "industry": "Motor Vehicles",
+        "url": "https://aixam.com",
+        "video_file": "videos/Aixam.mp4"
+      },
+      {
+        "app_id": "APP12",
+        "name": "Austrian Post",
+        "industry": "Office & Merchandise",
+        "url": "https://onlineshop.post.at/en-AT",
+        "video_file": "videos/Austrian Post.mp4"
+      },
+      {
+        "app_id": "APP13",
+        "name": "Packhelp",
+        "industry": "Paper & Books",
+        "url": "https://packhelp.com",
+        "video_file": "videos/Packhelp.mp4"
+      },
+      {
+        "app_id": "APP14",
+        "name": "4Pets",
+        "industry": "Pet Supplies",
+        "url": "https://4pets-products.com/en",
+        "video_file": "videos/4Pets.mp4"
+      },
+      {
+        "app_id": "APP15",
+        "name": "Namemaker",
+        "industry": "Printing Platform",
+        "url": "https://namemaker.com",
+        "video_file": "videos/Namemaker.mp4"
+      },
+      {
+        "app_id": "APP16",
+        "name": "Aurum Bikes",
+        "industry": "Sportswear & Equipment",
+        "url": "https://aurumbikes.com",
+        "video_file": "videos/Aurum Bikes.mp4"
+      }
+    ]
+}
