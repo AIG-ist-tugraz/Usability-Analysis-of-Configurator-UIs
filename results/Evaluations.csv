@@ -1,0 +1,445 @@
+timestamp,app_id,app_name,criterion_id,criterion,severity,plausible_error,plausible_recommendation
+2026-03-23 11:02:42,APP1,Tie Creators,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,C4,Auto-completion,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,E4,Repair suggestions,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP1,Tie Creators,N1,Focused navigation,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP1,Tie Creators,N2,Manual step transition,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP1,Tie Creators,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP1,Tie Creators,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP2,Clothoo,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP3,eSalon,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP3,eSalon,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP3,eSalon,C6,Error prevention,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP3,eSalon,E2,Transparency of dependencies,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP3,eSalon,N2,Manual step transition,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP3,eSalon,N4,Progress indication,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP3,eSalon,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP3,eSalon,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP3,eSalon,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP3,eSalon,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP4,AimControllers,C1,Customized options,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP4,AimControllers,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP4,AimControllers,C4,Auto-completion,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP4,AimControllers,C5,Variant comparison,Major Issue,Implausible,Plausible
+2026-03-23 11:02:42,APP4,AimControllers,C6,Error prevention,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP4,AimControllers,E1,Providing domain knowledge,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP4,AimControllers,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP4,AimControllers,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP4,AimControllers,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP5,Oreo,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP5,Oreo,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP5,Oreo,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP5,Oreo,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP5,Oreo,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,E3,Transparency of errors,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP6,DIS,V2,Customized preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,C6,Error prevention,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,N3,Flexible navigation,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP7,Fender,N4,Progress indication,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP7,Fender,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,C4,Auto-completion,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP8,Ergohide,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,N1,Focused navigation,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP8,Ergohide,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP8,Ergohide,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP9,Altrex,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP9,Altrex,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP9,Altrex,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP9,Altrex,N1,Focused navigation,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP9,Altrex,N4,Progress indication,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP9,Altrex,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP9,Altrex,V1,Product preview,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP9,Altrex,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,C4,Auto-completion,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP10,Nuk,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,E2,Transparency of dependencies,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP10,Nuk,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP10,Nuk,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP11,Aixam,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP12,Austrian Post,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP12,Austrian Post,C4,Auto-completion,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP12,Austrian Post,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP12,Austrian Post,C6,Error prevention,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP12,Austrian Post,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP12,Austrian Post,E2,Transparency of dependencies,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP12,Austrian Post,N2,Manual step transition,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP12,Austrian Post,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP12,Austrian Post,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP12,Austrian Post,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,N3,Flexible navigation,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP13,Packhelp,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,C4,Auto-completion,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP14,4Pets,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,E2,Transparency of dependencies,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP14,4Pets,E3,Transparency of errors,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP14,4Pets,E4,Repair suggestions,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP14,4Pets,N1,Focused navigation,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP14,4Pets,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP14,4Pets,V2,Customized preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP15,Namemaker,V2,Customized preview,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,C1,Customized options,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,C4,Auto-completion,Minor Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,E2,Transparency of dependencies,Major Issue,Implausible,Implausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-23 11:02:42,APP16,Aurum Bikes,N5,Variant persistence,Major Issue,Implausible,Implausible
+2026-03-24 13:03:53,APP1,Tie Creators,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-24 13:05:32,APP12,Austrian Post,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-24 13:07:07,APP12,Austrian Post,C6,Error prevention,Minor Issue,Plausible,Plausible
+2026-03-24 13:10:03,APP12,Austrian Post,N2,Manual step transition,Minor Issue,Implausible,Plausible
+2026-03-24 13:10:21,APP12,Austrian Post,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-24 13:10:53,APP12,Austrian Post,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-24 13:11:27,APP12,Austrian Post,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-24 13:14:44,APP12,Austrian Post,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-24 13:15:06,APP12,Austrian Post,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-24 13:15:31,APP12,Austrian Post,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-24 13:15:48,APP12,Austrian Post,E2,Transparency of dependencies,Major Issue,Implausible,Implausible
+2026-03-26 10:25:45,APP14,4Pets,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-26 10:26:50,APP14,4Pets,C4,Auto-completion,Minor Issue,Implausible,Implausible
+2026-03-26 10:27:52,APP14,4Pets,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-26 10:28:59,APP14,4Pets,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-26 10:29:43,APP14,4Pets,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-26 10:29:57,APP14,4Pets,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 10:30:44,APP14,4Pets,V1,Product preview,Major Issue,Implausible,Implausible
+2026-03-26 10:30:59,APP14,4Pets,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 10:31:29,APP14,4Pets,N1,Focused navigation,Minor Issue,Implausible,Implausible
+2026-03-26 10:31:54,APP14,4Pets,V2,Customized preview,Major Issue,Plausible,Plausible
+2026-03-26 10:32:29,APP14,4Pets,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-26 10:33:26,APP14,4Pets,N6,Starting points,Minor Issue,Implausible,Implausible
+2026-03-26 11:53:04,APP1,Tie Creators,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-26 11:53:30,APP1,Tie Creators,C4,Auto-completion,Minor Issue,Plausible,Plausible
+2026-03-26 11:53:36,APP1,Tie Creators,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-26 11:53:40,APP1,Tie Creators,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-26 11:53:46,APP1,Tie Creators,N2,Manual step transition,Major Issue,Plausible,Plausible
+2026-03-26 11:54:05,APP1,Tie Creators,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 11:54:09,APP1,Tie Creators,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-26 11:54:14,APP1,Tie Creators,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-26 11:54:17,APP1,Tie Creators,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-26 11:54:19,APP1,Tie Creators,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 11:54:21,APP1,Tie Creators,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-26 11:54:24,APP1,Tie Creators,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-26 12:37:41,APP2,Clothoo,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-26 12:37:47,APP2,Clothoo,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-26 12:38:10,APP2,Clothoo,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-26 12:38:29,APP2,Clothoo,N5,Variant persistence,Minor Issue,Implausible,Plausible
+2026-03-26 12:38:36,APP2,Clothoo,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-26 12:38:48,APP2,Clothoo,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-26 12:38:53,APP2,Clothoo,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 12:49:35,APP3,eSalon,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-26 12:49:51,APP3,eSalon,C6,Error prevention,Major Issue,Implausible,Plausible
+2026-03-26 12:50:00,APP3,eSalon,N2,Manual step transition,Minor Issue,Implausible,Plausible
+2026-03-26 12:50:07,APP3,eSalon,N5,Variant persistence,Major Issue,Implausible,Plausible
+2026-03-26 12:50:12,APP3,eSalon,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-26 12:50:15,APP3,eSalon,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 12:50:21,APP3,eSalon,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-26 12:50:23,APP3,eSalon,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-26 12:50:24,APP3,eSalon,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-26 12:50:28,APP3,eSalon,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-26 12:50:55,APP4,AimControllers,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-26 12:51:01,APP4,AimControllers,C4,Auto-completion,Minor Issue,Implausible,Plausible
+2026-03-26 12:51:11,APP4,AimControllers,C6,Error prevention,Minor Issue,Implausible,Plausible
+2026-03-26 12:51:25,APP4,AimControllers,N1,Focused navigation,Major Issue,Implausible,Plausible
+2026-03-26 12:51:36,APP4,AimControllers,N5,Variant persistence,Major Issue,Implausible,Plausible
+2026-03-26 12:51:43,APP4,AimControllers,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-26 12:51:58,APP4,AimControllers,E1,Providing domain knowledge,Minor Issue,Implausible,Plausible
+2026-03-26 12:52:06,APP4,AimControllers,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 12:52:12,APP4,AimControllers,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-26 12:52:42,APP5,Oreo,C5,Variant comparison,Major Issue,Implausible,Plausible
+2026-03-26 12:52:57,APP5,Oreo,E1,Providing domain knowledge,Minor Issue,Implausible,Plausible
+2026-03-26 12:53:07,APP5,Oreo,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-26 12:53:17,APP5,Oreo,C6,Error prevention,Major Issue,Implausible,Plausible
+2026-03-26 12:53:24,APP5,Oreo,E3,Transparency of errors,Minor Issue,Implausible,Plausible
+2026-03-26 12:53:43,APP6,DIS,C1,Customized options,Minor Issue,Implausible,Plausible
+2026-03-26 12:53:49,APP6,DIS,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 12:54:01,APP6,DIS,E2,Transparency of dependencies,Minor Issue,Implausible,Plausible
+2026-03-26 12:54:14,APP6,DIS,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-26 12:54:22,APP6,DIS,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 12:54:32,APP6,DIS,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-26 12:54:37,APP6,DIS,E3,Transparency of errors,Major Issue,Plausible,Plausible
+2026-03-26 12:54:46,APP6,DIS,V2,Customized preview,Major Issue,Implausible,Plausible
+2026-03-26 12:54:51,APP6,DIS,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-26 12:54:55,APP6,DIS,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-26 13:39:44,APP7,Fender,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-26 13:40:01,APP7,Fender,C6,Error prevention,Minor Issue,Plausible,Plausible
+2026-03-26 13:40:37,APP7,Fender,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-26 13:40:44,APP7,Fender,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-26 13:40:50,APP7,Fender,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 13:41:05,APP7,Fender,N3,Flexible navigation,Minor Issue,Plausible,Plausible
+2026-03-26 13:41:32,APP7,Fender,E1,Providing domain knowledge,Minor Issue,Implausible,Plausible
+2026-03-26 13:41:39,APP7,Fender,N5,Variant persistence,Major Issue,Implausible,Plausible
+2026-03-26 13:42:06,APP8,Ergohide,C1,Customized options,Minor Issue,Implausible,Plausible
+2026-03-26 13:42:13,APP8,Ergohide,C4,Auto-completion,Major Issue,Implausible,Plausible
+2026-03-26 13:42:29,APP8,Ergohide,E1,Providing domain knowledge,Minor Issue,Implausible,Plausible
+2026-03-26 13:42:39,APP8,Ergohide,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-26 13:42:47,APP8,Ergohide,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-26 13:42:53,APP8,Ergohide,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-26 13:43:18,APP8,Ergohide,N1,Focused navigation,Major Issue,Implausible,Plausible
+2026-03-26 13:43:25,APP8,Ergohide,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-26 13:43:29,APP8,Ergohide,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 13:43:36,APP8,Ergohide,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:44:22,APP9,Altrex,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 13:45:17,APP9,Altrex,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-26 13:45:23,APP9,Altrex,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-26 13:45:28,APP9,Altrex,V1,Product preview,Minor Issue,Plausible,Plausible
+2026-03-26 13:45:30,APP9,Altrex,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-26 13:45:32,APP9,Altrex,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:45:37,APP9,Altrex,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-26 13:45:43,APP9,Altrex,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-26 13:46:00,APP10,Nuk,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-26 13:46:06,APP10,Nuk,C5,Variant comparison,Major Issue,Implausible,Plausible
+2026-03-26 13:46:31,APP10,Nuk,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-26 13:46:39,APP10,Nuk,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-26 13:46:45,APP10,Nuk,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:47:03,APP10,Nuk,V2,Customized preview,Minor Issue,Implausible,Plausible
+2026-03-26 13:47:12,APP10,Nuk,C4,Auto-completion,Major Issue,Implausible,Plausible
+2026-03-26 13:47:24,APP10,Nuk,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-26 13:47:36,APP10,Nuk,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-26 13:48:05,APP10,Nuk,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-26 13:48:12,APP10,Nuk,N4,Progress indication,Minor Issue,Implausible,Plausible
+2026-03-26 13:48:51,APP11,Aixam,C1,Customized options,Minor Issue,Implausible,Plausible
+2026-03-26 13:49:01,APP11,Aixam,E1,Providing domain knowledge,Minor Issue,Implausible,Plausible
+2026-03-26 13:49:12,APP11,Aixam,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-26 13:49:25,APP11,Aixam,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-26 13:49:32,APP11,Aixam,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 13:49:37,APP11,Aixam,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-26 13:49:51,APP11,Aixam,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-26 13:50:13,APP12,Austrian Post,C1,Customized options,Minor Issue,Implausible,Plausible
+2026-03-26 13:50:21,APP12,Austrian Post,C5,Variant comparison,Major Issue,Implausible,Plausible
+2026-03-26 13:50:30,APP12,Austrian Post,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-26 13:50:37,APP12,Austrian Post,N2,Manual step transition,Minor Issue,Implausible,Plausible
+2026-03-26 13:50:50,APP12,Austrian Post,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-26 13:50:57,APP12,Austrian Post,C4,Auto-completion,Major Issue,Implausible,Plausible
+2026-03-26 13:51:05,APP12,Austrian Post,E2,Transparency of dependencies,Major Issue,Implausible,Plausible
+2026-03-26 13:51:09,APP12,Austrian Post,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:51:16,APP12,Austrian Post,C6,Error prevention,Minor Issue,Plausible,Plausible
+2026-03-26 13:51:22,APP12,Austrian Post,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-26 13:51:39,APP13,Packhelp,C1,Customized options,Minor Issue,Implausible,Plausible
+2026-03-26 13:51:47,APP13,Packhelp,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-26 13:52:09,APP13,Packhelp,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-26 13:52:12,APP13,Packhelp,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-26 13:52:16,APP13,Packhelp,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-26 13:52:24,APP13,Packhelp,C5,Variant comparison,Major Issue,Implausible,Plausible
+2026-03-26 13:52:31,APP13,Packhelp,N3,Flexible navigation,Minor Issue,Implausible,Plausible
+2026-03-26 13:52:39,APP13,Packhelp,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-26 13:52:47,APP13,Packhelp,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-26 13:53:29,APP14,4Pets,C1,Customized options,Minor Issue,Implausible,Plausible
+2026-03-26 13:53:51,APP14,4Pets,C4,Auto-completion,Minor Issue,Implausible,Plausible
+2026-03-26 13:54:03,APP14,4Pets,E2,Transparency of dependencies,Minor Issue,Implausible,Plausible
+2026-03-26 13:54:09,APP14,4Pets,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-26 13:54:15,APP14,4Pets,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:54:24,APP14,4Pets,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-26 13:54:41,APP14,4Pets,C2,Organized configuration space,Minor Issue,Implausible,Plausible
+2026-03-26 13:54:46,APP14,4Pets,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-26 13:55:05,APP14,4Pets,N6,Starting points,Minor Issue,Implausible,Plausible
+2026-03-26 13:55:18,APP14,4Pets,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 13:55:29,APP14,4Pets,V2,Customized preview,Major Issue,Implausible,Plausible
+2026-03-26 13:55:39,APP14,4Pets,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-26 13:56:23,APP15,Namemaker,C2,Organized configuration space,Minor Issue,Implausible,Plausible
+2026-03-26 13:56:33,APP15,Namemaker,C4,Auto-completion,Major Issue,Implausible,Plausible
+2026-03-26 13:56:41,APP15,Namemaker,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-26 13:56:55,APP15,Namemaker,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-26 13:57:04,APP15,Namemaker,N3,Flexible navigation,Major Issue,Implausible,Plausible
+2026-03-26 13:57:33,APP15,Namemaker,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-26 13:57:37,APP15,Namemaker,V2,Customized preview,Major Issue,Plausible,Plausible
+2026-03-26 13:57:42,APP15,Namemaker,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-26 13:58:06,APP15,Namemaker,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-26 13:58:12,APP15,Namemaker,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:58:17,APP15,Namemaker,C5,Variant comparison,Major Issue,Implausible,Plausible
+2026-03-26 13:58:36,APP15,Namemaker,V1,Product preview,Major Issue,Implausible,Plausible
+2026-03-26 13:58:43,APP15,Namemaker,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-26 13:59:06,APP16,Aurum Bikes,C1,Customized options,Major Issue,Implausible,Plausible
+2026-03-26 13:59:17,APP16,Aurum Bikes,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-26 13:59:26,APP16,Aurum Bikes,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-26 13:59:29,APP16,Aurum Bikes,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-26 13:59:45,APP16,Aurum Bikes,C4,Auto-completion,Minor Issue,Plausible,Plausible
+2026-03-26 13:59:53,APP16,Aurum Bikes,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-26 14:00:07,APP16,Aurum Bikes,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-27 07:52:54,APP1,Tie Creators,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-27 07:56:54,APP1,Tie Creators,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-27 07:58:17,APP1,Tie Creators,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-27 08:04:06,APP1,Tie Creators,N2,Manual step transition,Major Issue,Implausible,Plausible
+2026-03-27 08:06:45,APP1,Tie Creators,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-27 08:07:40,APP1,Tie Creators,C4,Auto-completion,Minor Issue,Plausible,Plausible
+2026-03-27 08:10:10,APP1,Tie Creators,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-27 08:10:22,APP1,Tie Creators,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-27 08:11:00,APP1,Tie Creators,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-27 08:11:52,APP1,Tie Creators,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-27 08:18:10,APP1,Tie Creators,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-27 10:10:05,APP2,Clothoo,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-27 10:16:44,APP2,Clothoo,C4,Auto-completion,Major Issue,Implausible,Implausible
+2026-03-27 10:22:36,APP2,Clothoo,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-27 10:24:18,APP2,Clothoo,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-27 10:25:04,APP2,Clothoo,C2,Organized configuration space,Minor Issue,Implausible,Plausible
+2026-03-27 10:26:20,APP2,Clothoo,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-27 10:27:11,APP2,Clothoo,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-27 10:34:06,APP3,eSalon,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-27 10:35:49,APP3,eSalon,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-27 10:36:49,APP3,eSalon,N2,Manual step transition,Minor Issue,Plausible,Plausible
+2026-03-27 10:38:00,APP3,eSalon,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-27 10:40:44,APP3,eSalon,V1,Product preview,Major Issue,Implausible,Plausible
+2026-03-27 10:42:03,APP3,eSalon,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-27 10:42:57,APP3,eSalon,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-27 10:43:55,APP3,eSalon,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-27 12:30:53,APP3,eSalon,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-27 12:31:00,APP3,eSalon,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-27 12:37:34,APP4,AimControllers,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-27 12:42:03,APP4,AimControllers,C4,Auto-completion,Minor Issue,Plausible,Plausible
+2026-03-27 12:44:13,APP4,AimControllers,C6,Error prevention,Minor Issue,Plausible,Plausible
+2026-03-27 12:49:26,APP4,AimControllers,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-27 12:50:25,APP4,AimControllers,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-27 12:51:16,APP4,AimControllers,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-27 12:54:16,APP4,AimControllers,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-27 12:54:44,APP4,AimControllers,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-27 12:55:02,APP4,AimControllers,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-27 12:56:39,APP5,Oreo,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-27 12:57:45,APP5,Oreo,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-27 12:58:40,APP5,Oreo,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-27 13:01:46,APP5,Oreo,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-27 13:02:55,APP5,Oreo,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-28 10:31:14,APP6,DIS,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-28 10:32:46,APP6,DIS,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-28 10:33:36,APP6,DIS,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-28 10:35:45,APP6,DIS,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-28 10:36:20,APP6,DIS,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-28 10:38:59,APP6,DIS,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-28 10:39:54,APP6,DIS,E3,Transparency of errors,Major Issue,Plausible,Plausible
+2026-03-28 10:50:13,APP6,DIS,V2,Customized preview,Major Issue,Implausible,Implausible
+2026-03-28 10:50:54,APP6,DIS,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-28 10:52:01,APP6,DIS,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-29 20:40:42,APP8,Ergohide,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-29 20:41:15,APP8,Ergohide,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-29 20:43:54,APP8,Ergohide,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-29 20:44:20,APP8,Ergohide,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-29 20:44:45,APP8,Ergohide,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-29 20:45:10,APP8,Ergohide,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-29 20:45:22,APP8,Ergohide,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-29 20:45:26,APP8,Ergohide,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-29 20:45:28,APP8,Ergohide,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-29 20:45:30,APP8,Ergohide,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-30 07:39:05,APP7,Fender,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-30 07:39:24,APP7,Fender,C6,Error prevention,Minor Issue,Plausible,Plausible
+2026-03-30 07:39:57,APP7,Fender,E3,Transparency of errors,Minor Issue,Plausible,Plausible
+2026-03-30 07:40:12,APP7,Fender,N4,Progress indication,Major Issue,Plausible,Plausible
+2026-03-30 07:40:23,APP7,Fender,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 07:40:29,APP7,Fender,N3,Flexible navigation,Minor Issue,Plausible,Plausible
+2026-03-30 07:40:37,APP7,Fender,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-30 07:40:40,APP7,Fender,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-30 07:42:57,APP9,Altrex,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 07:43:37,APP9,Altrex,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-30 07:44:28,APP9,Altrex,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-30 07:45:00,APP9,Altrex,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-30 07:45:10,APP9,Altrex,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-30 07:46:35,APP9,Altrex,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-30 07:46:47,APP9,Altrex,V1,Product preview,Minor Issue,Plausible,Plausible
+2026-03-30 07:46:55,APP9,Altrex,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-30 07:48:29,APP10,Nuk,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-30 07:48:32,APP10,Nuk,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 07:48:43,APP10,Nuk,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-30 07:48:53,APP10,Nuk,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-30 07:49:01,APP10,Nuk,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-30 07:49:11,APP10,Nuk,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-30 07:50:49,APP10,Nuk,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-30 07:50:50,APP10,Nuk,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-30 07:50:51,APP10,Nuk,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-30 07:50:51,APP10,Nuk,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
+2026-03-30 07:50:52,APP10,Nuk,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-30 07:55:07,APP11,Aixam,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-30 07:55:44,APP11,Aixam,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-30 07:56:18,APP11,Aixam,N1,Focused navigation,Major Issue,Plausible,Plausible
+2026-03-30 08:00:30,APP11,Aixam,V2,Customized preview,Minor Issue,Plausible,Plausible
+2026-03-30 08:03:59,APP15,Namemaker,C2,Organized configuration space,Minor Issue,Plausible,Plausible
+2026-03-30 08:04:01,APP15,Namemaker,C4,Auto-completion,Major Issue,Plausible,Plausible
+2026-03-30 08:04:02,APP15,Namemaker,C6,Error prevention,Major Issue,Plausible,Plausible
+2026-03-30 08:04:03,APP15,Namemaker,E4,Repair suggestions,Minor Issue,Plausible,Plausible
+2026-03-30 08:04:07,APP15,Namemaker,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-30 08:04:09,APP15,Namemaker,N6,Starting points,Minor Issue,Plausible,Plausible
+2026-03-30 08:04:10,APP15,Namemaker,V2,Customized preview,Major Issue,Plausible,Plausible
+2026-03-30 08:04:11,APP15,Namemaker,C3,Availability of options,Major Issue,Plausible,Plausible
+2026-03-30 08:04:12,APP15,Namemaker,E2,Transparency of dependencies,Minor Issue,Plausible,Plausible
+2026-03-30 08:04:14,APP15,Namemaker,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-30 08:04:16,APP15,Namemaker,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 08:04:17,APP15,Namemaker,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-30 08:04:18,APP15,Namemaker,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-30 08:04:28,APP11,Aixam,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 08:04:52,APP11,Aixam,N3,Flexible navigation,Major Issue,Plausible,Plausible
+2026-03-30 08:05:29,APP11,Aixam,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-30 08:12:35,APP13,Packhelp,C1,Customized options,Minor Issue,Plausible,Plausible
+2026-03-30 08:13:11,APP13,Packhelp,E1,Providing domain knowledge,Minor Issue,Plausible,Plausible
+2026-03-30 08:14:26,APP13,Packhelp,N1,Focused navigation,Minor Issue,Plausible,Plausible
+2026-03-30 08:16:21,APP13,Packhelp,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-30 08:17:25,APP13,Packhelp,V1,Product preview,Major Issue,Plausible,Plausible
+2026-03-30 08:17:51,APP13,Packhelp,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 08:24:16,APP13,Packhelp,N3,Flexible navigation,Minor Issue,Plausible,Plausible
+2026-03-30 08:25:32,APP13,Packhelp,E4,Repair suggestions,Major Issue,Plausible,Plausible
+2026-03-30 08:25:49,APP13,Packhelp,N5,Variant persistence,Minor Issue,Plausible,Plausible
+2026-03-30 08:28:32,APP16,Aurum Bikes,C1,Customized options,Major Issue,Plausible,Plausible
+2026-03-30 08:28:46,APP16,Aurum Bikes,C5,Variant comparison,Major Issue,Plausible,Plausible
+2026-03-30 08:29:52,APP16,Aurum Bikes,E2,Transparency of dependencies,Major Issue,Plausible,Plausible
+2026-03-30 08:29:58,APP16,Aurum Bikes,N5,Variant persistence,Major Issue,Plausible,Plausible
+2026-03-30 08:33:54,APP16,Aurum Bikes,C4,Auto-completion,Minor Issue,Plausible,Plausible
+2026-03-30 08:34:07,APP16,Aurum Bikes,N4,Progress indication,Minor Issue,Plausible,Plausible
+2026-03-30 08:34:38,APP16,Aurum Bikes,E1,Providing domain knowledge,Major Issue,Plausible,Plausible
