@@ -43,3 +43,21 @@ The analysis produces detailed evaluations of configurator interfaces across mul
    - Open `Usability_Analysis.ipynb`
    - Paste your Google AI API key into the `GENAI_API_KEY` variable
    - Execute all cells to perform the analysis
+  
+## How to Cite
+
+If you want to cite the research paper, we suggest using the following reference:
+
+```
+@InProceedings{10.1007/978-3-032-40763-4_10,
+    author="Lubos, Sebastian and Felfernig, Alexander and Garber, Damian and Kralji{\'{c}}, Adnan and Kralji{\'{c}}, Tarik and Le, Viet-Man and Tran, Thi Ngoc Trang and Leitner, Gerhard and Schwazer, Julian and Suppan, Doris and Willfort, Reinhard and Dukic, Ivan and Fuchs, Jeremias and Henrich, Manuel",
+    editor="Perrouin, Gilles and Berger, Thorsten and Papadopoulos, George A. and Schaefer, Ina and Fortz, Sophie",
+    title="Usability Analysis of Configurator User Interfaces with Multimodal Large Language Models",
+    booktitle="Software and Systems Reuse, Product Lines, and Configuration",
+    year="2027",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="170--190",
+    isbn="978-3-032-40763-4"
+}
+```
